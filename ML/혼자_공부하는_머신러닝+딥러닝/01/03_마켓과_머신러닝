@@ -1,0 +1,11 @@
+# 마켓과 머신러닝
+## 학습 목표: 간단한 머신러닝 알고리즘 중 하나인 k-최근접 이웃(k-Nearest Neighbors)을 사용하여 2개의 종류를 분류하는 머신러닝 모델을 훈련할 수 있다.
+
+### 1. 생성 분류 문제
+- 데이터셋
+  - 도서 내 출처(찾을 수 없는 데이터셋)
+    - https://www.kaggle.com/aungpyaeap/fish-market
+  - 대체 데이터셋 링크
+    - https://www.kaggle.com/datasets/vipullrathod/fish-market
+
+
